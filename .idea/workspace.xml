@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a0eafc-f997-448c-9055-893273e4ac96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DailyCoding213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyCoding214.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyCoding215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyCoding216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyCoding217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyCoding212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DailyCoding221.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,38 +24,38 @@
     <session id="-1680677711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="10" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.6" value="11" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="43" />
+          <entry key="java" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="52" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="18" />
-          <entry key="java" value="23779" />
+          <entry key="java" value="27033" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23779" />
+          <entry key="JAVA" value="27033" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -61,49 +64,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DailyCoding232.java">
+        <entry file="file://$PROJECT_DIR$/src/DailyCoding210.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DailyCoding217.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DailyCoding214.java">
+        <entry file="file://$PROJECT_DIR$/src/DailyCoding208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DailyCoding207.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DailyCoding213.java">
+        <entry file="file://$PROJECT_DIR$/src/DailyCoding206.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -157,6 +161,15 @@
         <option value="$PROJECT_DIR$/src/DailyCoding215.java" />
         <option value="$PROJECT_DIR$/src/DailyCoding214.java" />
         <option value="$PROJECT_DIR$/src/DailyCoding213.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding212.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding211.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding210.java" />
+        <option value="$PROJECT_DIR$/src/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding209.java" />
+        <option value="$PROJECT_DIR$/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding208.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding207.java" />
+        <option value="$PROJECT_DIR$/src/DailyCoding206.java" />
       </list>
     </option>
   </component>
@@ -170,8 +183,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,11 +202,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566430812968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566570405885" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,56 +219,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DailyCoding213">
-    <configuration name="DailyCoding213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyCoding213" />
+  <component name="RunManager" selected="Application.DailyCoding206">
+    <configuration name="DailyCoding206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyCoding206" />
       <module name="PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyCoding214" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyCoding214" />
+    <configuration name="DailyCoding207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyCoding207" />
       <module name="PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyCoding215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyCoding215" />
+    <configuration name="DailyCoding208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyCoding208" />
       <module name="PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyCoding216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyCoding216" />
+    <configuration name="DailyCoding209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyCoding209" />
       <module name="PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyCoding217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyCoding217" />
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
       <module name="PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DailyCoding217" />
-      <item itemvalue="Application.DailyCoding216" />
-      <item itemvalue="Application.DailyCoding215" />
-      <item itemvalue="Application.DailyCoding214" />
-      <item itemvalue="Application.DailyCoding213" />
+      <item itemvalue="Application.LongestCommonSubsequence" />
+      <item itemvalue="Application.DailyCoding209" />
+      <item itemvalue="Application.DailyCoding208" />
+      <item itemvalue="Application.DailyCoding207" />
+      <item itemvalue="Application.DailyCoding206" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DailyCoding213" />
-        <item itemvalue="Application.DailyCoding214" />
-        <item itemvalue="Application.DailyCoding215" />
-        <item itemvalue="Application.DailyCoding216" />
-        <item itemvalue="Application.DailyCoding217" />
+        <item itemvalue="Application.DailyCoding206" />
+        <item itemvalue="Application.DailyCoding207" />
+        <item itemvalue="Application.DailyCoding208" />
+        <item itemvalue="Application.DailyCoding209" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +289,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30615166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,13 +298,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.30240965" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.30240965" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -441,9 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -459,10 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,23 +508,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DailyCoding221.java" />
-    <entry file="file://$PROJECT_DIR$/src/DailyCoding232.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DailyCoding217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DailyCoding216.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -530,17 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DailyCoding214.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,15 +536,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding217.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding214.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DailyCoding213.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding212.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding211.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding210.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding209.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="106" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding207.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DailyCoding206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
         </state>
       </provider>
     </entry>
