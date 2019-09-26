@@ -11,6 +11,12 @@ public class Utility {
         }
         System.out.println("");
     }
+    public static void printStr(List<String> list) {
+        for (String n : list) {
+            System.out.print(n + ", ");
+        }
+        System.out.println("");
+    }
     public static void print(int[] nums) {
         for (int n : nums) {
             System.out.print(n + ", ");
